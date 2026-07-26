@@ -52,9 +52,9 @@ Num:   Type Bind Vis Ndx Name
 47:   FUNC GLOBAL DEFAULT UND read@LIBC
 48:   FUNC GLOBAL DEFAULT UND atoi@LIBC
 49:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEb
-50:   FUNC GLOBAL DEFAULT UND _ZNSt3__16chrono12steady_clock3nowEv
-51:   FUNC GLOBAL DEFAULT UND pthread_cond_clockwait@LIBC_R
-52:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEi
+50:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEi
+51:   FUNC GLOBAL DEFAULT UND _ZNSt3__16chrono12steady_clock3nowEv
+52:   FUNC GLOBAL DEFAULT UND pthread_cond_clockwait@LIBC_R
 53:   FUNC GLOBAL DEFAULT UND _ZNSt3__115__thread_structD1Ev
 54:   FUNC GLOBAL DEFAULT UND _ZSt9terminatev
 55:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEs
