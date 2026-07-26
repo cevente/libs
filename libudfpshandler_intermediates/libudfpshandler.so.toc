@@ -1,6 +1,6 @@
   0x000000000000000e (SONAME)          Library soname: [libudfpshandler.so]
   
-Symbol   contains 68 entries:
+Symbol   contains 69 entries:
 Num:   Type Bind Vis Ndx Name
 0:   NOTYPE LOCAL DEFAULT UND
 1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC
@@ -51,22 +51,23 @@ Num:   Type Bind Vis Ndx Name
 46:   FUNC GLOBAL DEFAULT UND poll@LIBC
 47:   FUNC GLOBAL DEFAULT UND read@LIBC
 48:   FUNC GLOBAL DEFAULT UND atoi@LIBC
-49:   FUNC GLOBAL DEFAULT UND _ZNSt3__16chrono12steady_clock3nowEv
-50:   FUNC GLOBAL DEFAULT UND pthread_cond_clockwait@LIBC_R
-51:   FUNC GLOBAL DEFAULT UND _ZNSt3__115__thread_structD1Ev
-52:   FUNC GLOBAL DEFAULT UND _ZSt9terminatev
-53:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEl
-54:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEm
-55:   OBJECT GLOBAL DEFAULT UND _ZNSt3__15ctypeIcE2idE
-56:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC
-57:   FUNC GLOBAL DEFAULT UND memset@LIBC
-58:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics6common19ICancellationSignal4hashE
-59:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
-60:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
-61:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
-62:   OBJECT WEAK DEFAULT 18 _ZTV24XiaomiSm6225UdfpsHandler
-63:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics6common19ICancellationSignal4hashE
-64:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
-65:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
-66:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
-67:   OBJECT GLOBAL DEFAULT 25 UDFPS_HANDLER_FACTORY
+49:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEi
+50:   FUNC GLOBAL DEFAULT UND _ZNSt3__16chrono12steady_clock3nowEv
+51:   FUNC GLOBAL DEFAULT UND pthread_cond_clockwait@LIBC_R
+52:   FUNC GLOBAL DEFAULT UND _ZNSt3__115__thread_structD1Ev
+53:   FUNC GLOBAL DEFAULT UND _ZSt9terminatev
+54:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEl
+55:   FUNC GLOBAL DEFAULT UND _ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsEm
+56:   OBJECT GLOBAL DEFAULT UND _ZNSt3__15ctypeIcE2idE
+57:   FUNC GLOBAL DEFAULT UND __stack_chk_fail@LIBC
+58:   FUNC GLOBAL DEFAULT UND memset@LIBC
+59:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics6common19ICancellationSignal4hashE
+60:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
+61:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
+62:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
+63:   OBJECT WEAK DEFAULT 18 _ZTV24XiaomiSm6225UdfpsHandler
+64:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics6common19ICancellationSignal4hashE
+65:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
+66:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
+67:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
+68:   OBJECT GLOBAL DEFAULT 25 UDFPS_HANDLER_FACTORY
