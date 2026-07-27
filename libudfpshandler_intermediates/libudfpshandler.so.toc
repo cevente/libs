@@ -1,6 +1,6 @@
   0x000000000000000e (SONAME)          Library soname: [libudfpshandler.so]
   
-Symbol   contains 71 entries:
+Symbol   contains 70 entries:
 Num:   Type Bind Vis Ndx Name
 0:   NOTYPE LOCAL DEFAULT UND
 1:   FUNC GLOBAL DEFAULT UND __cxa_finalize@LIBC
@@ -66,10 +66,9 @@ Num:   Type Bind Vis Ndx Name
 61:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
 62:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
 63:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
-64:   OBJECT WEAK DEFAULT 26 _ZZN24XiaomiSm6225UdfpsHandler10onAcquiredEiiE10errorCount
-65:   OBJECT WEAK DEFAULT 18 _ZTV24XiaomiSm6225UdfpsHandler
-66:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics6common19ICancellationSignal4hashE
-67:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
-68:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
-69:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
-70:   OBJECT GLOBAL DEFAULT 25 UDFPS_HANDLER_FACTORY
+64:   OBJECT WEAK DEFAULT 18 _ZTV24XiaomiSm6225UdfpsHandler
+65:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics6common19ICancellationSignal4hashE
+66:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint8ISession4hashE
+67:   OBJECT WEAK DEFAULT 26 _ZGVN4aidl7android8hardware10biometrics11fingerprint16ISessionCallback4hashE
+68:   OBJECT WEAK DEFAULT 26 _ZN4aidl7android8hardware10biometrics11fingerprint12IFingerprint4hashE
+69:   OBJECT GLOBAL DEFAULT 25 UDFPS_HANDLER_FACTORY
